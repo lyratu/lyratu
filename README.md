@@ -1,9 +1,1 @@
-- 👋 Hi, I’m tuliwen.
-- 👀 I’m interested in web and Wechat-mini-program.
-- 🌱 I’m currently learning Typescript.
-- 📫 How to reach me QQ:1421193732
-
-<!---
-tuliwen/tuliwen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![动画](https://user-images.githubusercontent.com/24313098/218395323-fd11a74c-c21a-46fb-8092-c2118dc20a69.gif)
