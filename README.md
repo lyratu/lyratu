@@ -11,7 +11,7 @@
 - egg
 - midway
 ## 惯用语言
-- Javascript
+- JavaSript
 - TypeScript
 - Java
 - c#
