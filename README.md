@@ -23,6 +23,6 @@ I'm a Frontend Developer with a knack for Java Backend. Currently pursuing my un
 
 ## 📫 Contact Me
 - Email: tuliwen520@gmail.com
-- Twitter: [@your_twitter_handle]([https://twitter.com/your-twitter-handle](https://twitter.com/lyrat0))
+- Twitter: [LyraTu]((https://twitter.com/lyrat0))
 
 Feel free to reach out if you have any questions or opportunities for collaboration!
