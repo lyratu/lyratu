@@ -94,12 +94,6 @@ I love where **code meets creativity**:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
 </div>
 
-###
+### 
+<img src="https://pacman.abozanona.me?username=lyratu" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lyratu/lyratu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lyratu/lyratu/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lyratu/lyratu/output/pacman-contribution-graph.svg">
-</picture>
-
-###
