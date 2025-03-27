@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lofi.gif"  />
+  <img height="150" src="https://camo.githubusercontent.com/0e9388b3bbe4234f9fe01f87e8cf0be5596499e81e4754d0f3ddfb36a366bfa2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a49675866346867624843654b69587076742f67697068792e676966"  />
 </div>
 
 ###
